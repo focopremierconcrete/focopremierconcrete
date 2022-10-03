@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @focopremierconcrete
+- 👀 I’m interested in ... Serving my cusotomres
+- 🌱 I’m currently learning ... how to write code for my concrete finishing software
+- 💞️ I’m looking to collaborate on ... my concrete finishing software
+- 📫 How to reach me ...  Visit my <a href="https://www.fortcollinsconcreteco.com/concrete-driveways">Concrete Driveway</a> website
